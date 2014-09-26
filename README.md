@@ -1,0 +1,4 @@
+tripping-spice
+==============
+
+Finicial model
